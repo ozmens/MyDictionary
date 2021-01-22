@@ -32,9 +32,5 @@ namespace MyDictionary
 
         }
 
-        public int Count()
-        {
-            get { return keys.Length};
-        }
     }
 }
